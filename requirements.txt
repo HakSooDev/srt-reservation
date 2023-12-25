@@ -1,2 +1,4 @@
-selenium==3.141.0
-webdriver_manager==3.2.2
+selenium==4.16.0
+webdriver_manager==4.0.1
+pyobjc===10.1
+audioplayer===0.6
